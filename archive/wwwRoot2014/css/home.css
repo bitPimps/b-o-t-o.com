@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:#fff; font:100%/100% "Times New Roman", Times, serif; color:#4d0b0c; margin:0; padding:0;}
+#container,#container_top,#logo,#nav_main,#container_middle,#sidebar_left,#content,#sidebar_right,#content_bottom {display:block; margin:0; padding:0;}
+#container {width:1000px; margin:0 auto;}
+#container_top {width:1000px; height:105px;}
+#container_top #logo {width:230px; float:left; text-align:right; margin-top:6px;}
+#container_top #nav_main {width:770px; float:left;}
+#container_top #nav_main ul {list-style-type:none; float:right; margin:0 25px 0 0; padding:0;}
+#container_top #nav_main ul li {float:left; margin:0 15px 0 0; padding:0;}
+#container_top #nav_main ul li a {display:block; background:url(images/backgrounds/bg_navmain.jpg) 0 -63px no-repeat; font:bold 14px "Times New Roman", Times, serif; color:#762123; text-align:center; text-decoration:none; white-space:nowrap; margin:0; padding:25px 10px 0 10px;}
+#container_top #nav_main ul li a:hover {text-decoration:underline;}
+#container_top #nav_main ul li a.navmain_on {background:url(images/backgrounds/bg_navmain.jpg) 0 -35px no-repeat; padding:55px 10px 0 10px;}
+#container_middle {width:1000px; clear:both; margin-top:65px;}
+#container_middle #sidebar_left {width:267px; float:left; text-align:right; border-right:5px solid #4d0b0c;}
+#container_middle #sidebar_left h1 {font:italic 180%/180% "Times New Roman", Times, serif; color:#4d0b0c; margin:0 50px 0 0; padding:0;}
+#container_middle #content {width:678px; float:left; margin-left:50px;}
+#container_middle #content a {color:#4d0b0c; text-decoration:underline;}
+#container_middle #content p {color:#4d0b0c;}
+#container_middle #content #sidebar_right {width:250px; float:right; margin:0 0 0 50px; padding:0;}
+#container_middle #content_bottom {width:678px; float:left; margin:50px 0 0 50px;}
+#container_middle #content_bottom h1 {font:150% "Times New Roman", Times, serif; color:#4d0b0c; margin:0; padding:0;}
+#container_middle #content_bottom p {color:#4d0b0c;}
+.red {color:#762123;}
+.yellow {color:#ffe483;}
+.navYellow {color:#ffc907;}

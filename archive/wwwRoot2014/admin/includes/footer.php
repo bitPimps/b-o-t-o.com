@@ -1,0 +1,1 @@
+<div id="footer" class="clear">Copyright &copy; 2006 - <?php echo date("Y"); ?> The Barral Institute | All rights reserved</div>
