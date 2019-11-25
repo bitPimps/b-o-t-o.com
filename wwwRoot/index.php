@@ -39,7 +39,7 @@
 	<body>
 		<div id="outer">
 			<div id="container">
-				<img src="logo.jpg" class="img-responsive center-block">
+				<img src="/logo.jpg" class="img-responsive center-block">
 			</div>
 		</div>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10031363-7"></script>
