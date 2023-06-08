@@ -1,0 +1,1 @@
+<div id="logo"><h1><a href="/admin/home.php" title="B-O-T-O.com Administration">B-O-T-O.com Administration</a></h1></div>
